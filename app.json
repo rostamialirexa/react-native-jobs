@@ -10,6 +10,9 @@
       "eas": {
         "projectId": "e9b8b3f8-36d3-48bc-8da8-176fff4d3d3f"
       }
+    },
+    "android": {
+      "package": "com.rostamialireza.jobsift"
     }
   }
 }
